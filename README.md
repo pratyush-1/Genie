@@ -82,7 +82,7 @@
 <details>
 <summary>Specific Task 3</summary>
   
-### Specific Task 2. [“Learning the Latent Structure with Diffusion Models"](https://github.com/pratyush-1/Genie/blob/main/diffusion.ipynb) 
+### Specific Task 3. [“Learning the Latent Structure with Diffusion Models"](https://github.com/pratyush-1/Genie/blob/main/diffusion.ipynb) 
 
 * Use a Diffusion Network model to represent the events in task 1. Please show a side-by side comparison of the original and reconstructed events and appropriate evaluation metric of your choice that estimates the difference between the two.
   
