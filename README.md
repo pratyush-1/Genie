@@ -20,7 +20,7 @@
 
 * Please show a side-by-side comparison of original and reconstructed events. 
 
-### Variational Autoencoder reconstructions vs original image
+### Autoencoder reconstructions vs original image
 ![input image](https://github.com/pratyush-1/Genie/blob/main/assets/img.png)
 ![AE reconstruction](https://github.com/pratyush-1/Genie/blob/main/assets/ae.png)
 
@@ -87,9 +87,11 @@
 * Use a Diffusion Network model to represent the events in task 1. Please show a side-by side comparison of the original and reconstructed events and appropriate evaluation metric of your choice that estimates the difference between the two.
   
 ### RESULTS - 
+#### Forward diffusion
 ![forward diffusion](https://github.com/pratyush-1/Genie/blob/main/assets/forward_diff.png)
+#### Reverse diffusion
 ![reverse diffusion](https://github.com/pratyush-1/Genie/blob/main/assets/backward_diffusion.png)
-
+#### Reconstruction on test image
 ![reconstruction on test img](https://github.com/pratyush-1/Genie/blob/main/assets/reconstruction.png)
 
 
