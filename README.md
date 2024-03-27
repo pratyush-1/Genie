@@ -16,7 +16,7 @@
   
 ### Common Task 1. [Auto-encoder of the quark/gluon events](https://github.com/pratyush-1/Genie/blob/main/autoencoder.ipynb)
 
-* Please train a variational auto-encoder to learn the representation based on three image channels (ECAL, HCAL and Tracks) for the dataset. 
+* Please train an auto-encoder to learn the representation based on three image channels (ECAL, HCAL and Tracks) for the dataset. 
 
 * Please show a side-by-side comparison of original and reconstructed events. 
 
@@ -31,7 +31,7 @@
 
 * Since Images are highly structured data, the pixels are arranged in a meaningful way. If the way pixels are arranged changes then we lose the meaning , hence here convolutions may not work as we aren't dealing with our normal RGB channels image data.
 
-* Instead working with other type of data like graphs (aka Graph Neural Networks) would give better results by extracting features in the graphical representation of the given images.
+* Since the data coming from detector is non-euclidean in nature, working with other type of data like graphs (aka Graph Neural Networks) would give better results by extracting features in the graphical representation of the given images.
 </details>
 
 <details>
